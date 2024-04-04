@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\HW_Server_3\HW_Server_3\bin\Debug\HW_Server_3.exe.config
+C:\Users\Admin\source\repos\HW_Server_3\HW_Server_3\bin\Debug\HW_Server_3.exe
+C:\Users\Admin\source\repos\HW_Server_3\HW_Server_3\bin\Debug\HW_Server_3.pdb
+C:\Users\Admin\source\repos\HW_Server_3\HW_Server_3\obj\Debug\HW_Server_3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HW_Server_3\HW_Server_3\obj\Debug\HW_Server_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_Server_3\HW_Server_3\obj\Debug\HW_Server_3.exe
+C:\Users\Admin\source\repos\HW_Server_3\HW_Server_3\obj\Debug\HW_Server_3.pdb
